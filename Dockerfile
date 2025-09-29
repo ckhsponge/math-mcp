@@ -22,4 +22,4 @@ COPY . .
 
 # Use the full module path
 
-CMD ["python", "-m", "math"]
+CMD ["python", "-m", "math_mcp"]
